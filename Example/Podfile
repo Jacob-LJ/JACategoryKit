@@ -1,0 +1,11 @@
+use_frameworks!
+
+target 'JACategoryKit_Example' do
+  pod 'JACategoryKit', :path => '../'
+
+  target 'JACategoryKit_Tests' do
+    inherit! :search_paths
+
+    
+  end
+end
