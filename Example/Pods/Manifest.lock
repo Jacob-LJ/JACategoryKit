@@ -1,0 +1,22 @@
+PODS:
+  - JACategoryKit (0.1.0):
+    - JACategoryKit/UIView_JAFrame (= 0.1.0)
+    - JACategoryKit/UIView_JALayer (= 0.1.0)
+    - JACategoryKit/UIView_JAUtil (= 0.1.0)
+  - JACategoryKit/UIView_JAFrame (0.1.0)
+  - JACategoryKit/UIView_JALayer (0.1.0)
+  - JACategoryKit/UIView_JAUtil (0.1.0)
+
+DEPENDENCIES:
+  - JACategoryKit (from `../`)
+
+EXTERNAL SOURCES:
+  JACategoryKit:
+    :path: ../
+
+SPEC CHECKSUMS:
+  JACategoryKit: 8dd2f6f49de93c6f5128cd27b78d4d4fba4d53cd
+
+PODFILE CHECKSUM: 9d7d3bebc37cbf437b4d8d223211a2073d767012
+
+COCOAPODS: 1.3.1

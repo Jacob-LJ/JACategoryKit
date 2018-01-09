@@ -1,0 +1,35 @@
+{
+  "name": "JACategoryKit",
+  "version": "0.1.0",
+  "summary": "A short description of JACategoryKit.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://github.com/312846421@qq.com/JACategoryKit",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "312846421@qq.com": "312846421@qq.com"
+  },
+  "source": {
+    "git": "https://github.com/312846421@qq.com/JACategoryKit.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "8.0"
+  },
+  "subspecs": [
+    {
+      "name": "UIView_JAFrame",
+      "source_files": "JACategoryKit/Classes/UIView_JAFrame/**/*"
+    },
+    {
+      "name": "UIView_JALayer",
+      "source_files": "JACategoryKit/Classes/UIView_JALayer/**/*"
+    },
+    {
+      "name": "UIView_JAUtil",
+      "source_files": "JACategoryKit/Classes/UIView_JAUtil/**/*"
+    }
+  ]
+}
